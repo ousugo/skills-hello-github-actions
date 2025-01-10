@@ -1,0 +1,6 @@
+name: Post Welcome commet
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull_requests: write
